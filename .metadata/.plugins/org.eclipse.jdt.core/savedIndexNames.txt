@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\งานมหาลัย\ปี 3 เทอม 1\สถาปัตยกรรมซอฟต์แวร์\งาน\งานที่ 2 Static Method - Java (Link GitHub)\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
